@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4b8eb5a8-be61-45f2-9851-1b4ff5d5f307)# Procedural Animation Systems as Ragdoll Physics
+# Procedural Animation Systems as Ragdoll Physics
 
 ## 1. Introduction
 
