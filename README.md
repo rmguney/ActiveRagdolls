@@ -86,7 +86,7 @@ Figure 7: Jiggle physics on an unanimated mesh next to our animation target
 
 
 
-![image10](https://github.com/user-attachments/assets/24e6eb3c-5d6f-4342-9777-3b708b9211d3)
+![image10](https://github.com/user-attachments/assets/24e6eb3c-5d6f-4342-9777-3b708b9211d3)    
 Figure 8: Previously unanimated physics mesh copying animations from the target animation mesh and blending both with physics interactions
 
 
