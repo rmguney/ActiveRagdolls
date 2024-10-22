@@ -1,5 +1,3 @@
-# Procedural Animation Systems as Ragdoll Physics
-
 ## 1. Introduction
 
 Active ragdolls are today's game development feature that fuses the dynamic physical interactions of ragdoll physics with the structured movements of predefined animations. In this manner, active ragdolls will permit characters to behave more lifelike and responsive under various game scenarios, surely augmenting the player's immersion and engagement. Implementing active ragdolls in combination with animations in Unity is a unique set of opportunities and challenges, making this an exciting topic whether we are looking to make our models more realistic or more wacky, however preferred.
